@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data structures**
 
-- 📫 How to reach me **yashultyagi1170@gmail.com**
+- 📫 How to reach me **yashultyagi11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
